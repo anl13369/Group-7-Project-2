@@ -16,11 +16,10 @@ Importance: Promotional deductions (bonuses, free spins, etc.) significantly imp
 Relation to data set: We pulled the “Licensee,” “Promotional Deductions,” and “Total Gross Gaming Revenue” columns to compare the promotional deductions to the total gross gaming revenue
 
 2. How do each licensee’s total wagers compare to Patron Winnings across different years?
-  Importance:
-              Each licensee can see during what time of year they are spending the most money on online gambling
-              They can use this information to adjust their budget for gambling expenses
-  Relation to data set
-              We used the “Licensee”, “Month Ending”, “Wagers”, and “Patron Winnings” columns to compare different licensees’ wagers across multiple time periods
+
+Importance: Each licensee can see during what time of year they are spending the most money on online gambling, and they can then use this information to adjust their budget for gambling expenses
+
+Relation to data set: We used the “Licensee”, “Month Ending”, “Wagers”, and “Patron Winnings” columns to compare different licensees’ wagers across multiple time periods
 
 # The manipulations applied to the data set as part of the analysis:
 
