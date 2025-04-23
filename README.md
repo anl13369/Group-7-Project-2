@@ -27,7 +27,7 @@ We altered the dataset to exclude the notes column, finding that most of the obs
 
 # Analysis and Results:
 **1. Which licensees rely most heavily on promotional deductions relevant to the revenue?**
-<img src="https://github.com/user-attachments/assets/3626a7a2-2a50-4e63-8b31-add46762d304" width="400">
+<img src="https://github.com/user-attachments/assets/3626a7a2-2a50-4e63-8b31-add46762d304" width="600">
 
 This graph shows the ratio of promotional deductions to total gaming revenue, which gives us a clearer view of how dependent each licensee is on incentives to drive their business but relative to what they earn rather than in cash terms.
 - MPI Master Wagering License CT, LLC leads with the highest ratio at 9.71%, meaning nearly 10 cents of every dollar earned comes from promotions. This shows a strong dependence on bonuses and similar strategies to attract or keep players.
@@ -57,7 +57,7 @@ A lower ratio may indicate a more sustainable model, relying less on constant in
 This means that the insights from our analysis can help licensees determine whether their current promotion strategy is worth the trade off, or if there is room to scale back while keeping revenue steady. 
 
 **2. How do each licensee's total wagers compare to Patron Winnings across different years?**
-![image](https://github.com/user-attachments/assets/53800f2f-d927-4fa3-8818-fd694cddfa67)
+<img src="https://github.com/user-attachments/assets/53800f2f-d927-4fa3-8818-fd694cddfa67" width="600">
 
 Licensee Wager Trends (2021–2025)
 - Red and blue lines represent the top two licensees by wager volume.
@@ -71,13 +71,13 @@ Licensee Wager Trends (2021–2025)
   - Similar market conditions
   - Competitive strategies or parallel responses to industry changes
 
-![image](https://github.com/user-attachments/assets/98d14cb8-0a85-47ed-aeca-a5301838753a)
+<img src="https://github.com/user-attachments/assets/98d14cb8-0a85-47ed-aeca-a5301838753a" width="500">
 
   In contrast, the licensees represented by the orange and teal lines report significantly lower wager volumes throughout all years. Their relatively flat trajectories imply steady but minimal activity, which could reflect niche markets, localized player bases, or more limited promotional strategies. Despite their small scale, these licensees remain consistent over time, showing no dramatic spikes or drops.
 Overall, the charts provide clear insights into how each licensee is evolving independently over time, with larger operators showing aligned growth trends and smaller entities maintaining a low but steady presence.
 
 
-![image](https://github.com/user-attachments/assets/e58ff31c-d203-4e22-bd90-48782e02640a)
+<img src="https://github.com/user-attachments/assets/e58ff31c-d203-4e22-bd90-48782e02640a" width="500">
 
   This graph compares total wagers to patron winning across five time points for each licensee. The data helps reveal how much players are betting and how much they're winning, providing insight into overall player activity and return behavior. 
 - Mohegan Digital, LLC and MPI Master Wagering License CT, LLC follow almost identical trends, with steady increases in wages and winning through the middle years, then a drop in the most recent year. This suggests consistent operations and player engagement across time.
