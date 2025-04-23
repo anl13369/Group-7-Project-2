@@ -80,6 +80,7 @@ Licensee Wager Trends (2021–2025)
 </p>
 
   In contrast, the licensees represented by the orange and teal lines report significantly lower wager volumes throughout all years. Their relatively flat trajectories imply steady but minimal activity, which could reflect niche markets, localized player bases, or more limited promotional strategies. Despite their small scale, these licensees remain consistent over time, showing no dramatic spikes or drops.
+  
 Overall, the charts provide clear insights into how each licensee is evolving independently over time, with larger operators showing aligned growth trends and smaller entities maintaining a low but steady presence.
 
 <p align="center">
