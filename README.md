@@ -71,19 +71,20 @@ Licensee Wager Trends (2021–2025)
   - Competitive strategies or parallel responses to industry changes
 
 ![image](https://github.com/user-attachments/assets/98d14cb8-0a85-47ed-aeca-a5301838753a)
-In contrast, the licensees represented by the orange and teal lines report significantly lower wager volumes throughout all years. Their relatively flat trajectories imply steady but minimal activity, which could reflect niche markets, localized player bases, or more limited promotional strategies. Despite their small scale, these licensees remain consistent over time, showing no dramatic spikes or drops.
+
+  In contrast, the licensees represented by the orange and teal lines report significantly lower wager volumes throughout all years. Their relatively flat trajectories imply steady but minimal activity, which could reflect niche markets, localized player bases, or more limited promotional strategies. Despite their small scale, these licensees remain consistent over time, showing no dramatic spikes or drops.
 Overall, the charts provide clear insights into how each licensee is evolving independently over time, with larger operators showing aligned growth trends and smaller entities maintaining a low but steady presence.
 
 
 ![image](https://github.com/user-attachments/assets/e58ff31c-d203-4e22-bd90-48782e02640a)
 
-This graph compares total wagers to patron winning across five time points for each licensee. The data helps reveal how much players are betting and how much they're winning, providing insight into overall player activity and return behavior. 
-Mohegan Digital, LLC and MPI Master Wagering License CT, LLC follow almost identical trends, with steady increases in wages and winning through the middle years, then a drop in the most recent year. This suggests consistent operations and player engagement across time.
-Mohegan Tribe On-Reservation has no data reported for 2021, but shows strong values through the following years- peaking in 2023. Despite the early gap, their performance aligns with industry trends in later years, indicating a comparable payout structure.
-MPTN On-Reservation starts the lowest in 2021 burt rises to match the others by 2023. This may reflect a slower growth strategy or lower player engagement
-All licensees show a notable drop in both wagers and winnings in the most recent data
-This may be due to the year still being in progress (partial year total)
-It could also reflect seasonal betting patterns, or a shift in promotional tactics impacting how much players are betting and winning 
+  This graph compares total wagers to patron winning across five time points for each licensee. The data helps reveal how much players are betting and how much they're winning, providing insight into overall player activity and return behavior. 
+- Mohegan Digital, LLC and MPI Master Wagering License CT, LLC follow almost identical trends, with steady increases in wages and winning through the middle years, then a drop in the most recent year. This suggests consistent operations and player engagement across time.
+- Mohegan Tribe On-Reservation has no data reported for 2021, but shows strong values through the following years- peaking in 2023. Despite the early gap, their performance aligns with industry trends in later years, indicating a comparable payout structure.
+- MPTN On-Reservation starts the lowest in 2021 burt rises to match the others by 2023. This may reflect a slower growth strategy or lower player engagement
+- All licensees show a notable drop in both wagers and winnings in the most recent data
+  - This may be due to the year still being in progress (partial year total)
+  - It could also reflect seasonal betting patterns, or a shift in promotional tactics impacting how much players are betting and winning 
 
 **Data Transformations Relevant to Question 2**
 
