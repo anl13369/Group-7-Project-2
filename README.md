@@ -27,7 +27,8 @@ We altered the dataset to exclude the notes column, finding that most of the obs
 
 # Analysis and Results:
 **1. Which licensees rely most heavily on promotional deductions relevant to the revenue?**
-![image](https://github.com/user-attachments/assets/3626a7a2-2a50-4e63-8b31-add46762d304)
+<img src="https://github.com/user-attachments/assets/3626a7a2-2a50-4e63-8b31-add46762d304" width="400">
+
 This graph shows the ratio of promotional deductions to total gaming revenue, which gives us a clearer view of how dependent each licensee is on incentives to drive their business but relative to what they earn rather than in cash terms.
 - MPI Master Wagering License CT, LLC leads with the highest ratio at 9.71%, meaning nearly 10 cents of every dollar earned comes from promotions. This shows a strong dependence on bonuses and similar strategies to attract or keep players.
 - Mohegan Digital, LLC follows with 8.01%, also showing a fairly high reliance, though slightly more conservative than MPI.
