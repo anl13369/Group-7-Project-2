@@ -10,9 +10,9 @@
 
 We found our data from the US Data Catalog which displays information collected from online casino gaming in Connecticut. The spreadsheet is a mix of qualitative and quantitative data to explain the different earnings, promotions and wagers that occurred per month.
 
-The qualitative data includes the four different licensees in the state of Connecticut, the fiscal year of operation and the month ending in which data was recorded.
+The **qualitative data** includes the four different licensees in the state of Connecticut, the fiscal year of operation and the month ending in which data was recorded.
 
-The quantitative data records many different aspects key to earnings of both players and the casino:
+The **quantitative data** records many different aspects key to earnings of both players and the casino:
 
 **Wagers** records the total amount bet by patrons, or players of the online casino games.
 
