@@ -8,6 +8,21 @@
 
 # Describing your data set and what data it contains:
 
+We found our data from the US Data Catalog which displays information collected from online casino gaming in Connecticut. The spreadsheet is a mix of qualitative and quantitative data to explain the different earnings, promotions and wagers that occurred per month.
+
+The qualitative data includes the four different licensees in the state of Connecticut, the fiscal year of operation and the month ending in which data was recorded.
+
+The quantitative data records many different aspects key to earnings of both players and the casino:
+
+**Wagers** records the total amount bet by patrons, or players of the online casino games.
+**Patron Winnings** is the total amount won by players and represents the amount the casino games must pay out to the players.
+**Cancelled Wagers** are bets that are voided or cancelled for reasons like technical issues or user cancellation.
+**Online Casino Gaming Win or Loss** records the net win or loss for each licensee.
+**Promotional Coupons or Credits Wagered** represents the value of promotions that are used as marketing tools to get people to gamble. This can be anything from free spins on games or credits given on the game that transfers to money.
+**Promotional Deduction** is also a marketing tool used to get people to gamble but is different from coupons or credits as it is the monetary cost of giving a player a bonus. In other words, it is the cost of providing a bonus. For example, if a bonus of $50 is given out to a player, and this causes the casino to pay out an additional $150 to a player, the $150 is recorded as a deduction here from their gross revenue.
+**Total Gross Gaming Revenue** is the revenue recorded before any promotional costs. This is simply the patron winnings subtracted from the wagers. The total is what the casino retains after paying customers.
+**Payments** refers to the number of payments made to customers that month. This is not completely clear in the data, but it can be inferred when the data is compared to the other quantitative data.
+
 # 2 questions relevant to our data set and why they are interesting and important:
 **1. Which licensees rely most heavily on promotional deductions relevant to the revenue?**
 
