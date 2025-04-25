@@ -47,6 +47,12 @@ Relation to data set: We used the “Licensee”, “Month Ending”, “Wagers�
 
 We altered the dataset to exclude the notes column, finding that most of the observations did not report a value. Across all the rows, only one row contained a single piece of quantitative data. The data set also lacks a clear explanation of what the value achieves or reports, meaning that the column lacks analytical value.
 
+Other alterations include the formulas used to analyze the data. These are:
+
+We created a calculated ratio of deductions to revenue to determine what percent of promotions made up total gross revenue. This calculation was performed in order to determine that magnitude of impact 
+
+We created another calculated ratio in which we looked at wages to winnings. This was performed by dividing Wagers by Patron Winnings.
+
 # Analysis and Results:
 **1. Which licensees rely most heavily on promotional deductions relevant to the revenue?**
 <p align="center">
