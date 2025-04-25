@@ -139,3 +139,9 @@ If winnings dip below wagers significantly, licensees might see higher revenue, 
 The drop in both wagers and winnings in 2025 may reflect seasonality or changes in player behavior, making it a critical time for licensees to evaluate their current strategies and monitor if engagement rebounds later in the year.
 
 # Tableau Packaged Workbook:
+git lfs install
+git lfs track "*.twbx"
+git add .gitattributes
+git add "Group Project 2 (1).twbx"
+git commit -m "Add Tableau workbook"
+git push origin main
