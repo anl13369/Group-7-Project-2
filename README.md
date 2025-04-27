@@ -47,11 +47,6 @@ Relation to data set: We used the “Licensee”, “Month Ending”, “Wagers�
 
 We altered the dataset to exclude the notes column, finding that most of the observations did not report a value. Across all the rows, only one row contained a single piece of quantitative data. The data set also lacks a clear explanation of what the value achieves or reports, meaning that the column lacks analytical value.
 
-Other alterations include the formulas used to analyze the data. These are:
-
-We created a calculated ratio of deductions to revenue to determine what percent of promotions made up total gross revenue. This calculation was performed in order to determine that magnitude of impact 
-
-We created another calculated ratio in which we looked at wages to winnings. This was performed by dividing Wagers by Patron Winnings.
 
 # Analysis and Results:
 **1. Which licensees rely most heavily on promotional deductions relevant to the revenue?**
@@ -59,11 +54,11 @@ We created another calculated ratio in which we looked at wages to winnings. Thi
 <img src="https://github.com/user-attachments/assets/3626a7a2-2a50-4e63-8b31-add46762d304" width="600">
 </p>
 
-This graph shows the ratio of promotional deductions to total gaming revenue, which gives us a clearer view of how dependent each licensee is on incentives to drive their business but relative to what they earn rather than in cash terms.
-- MPI Master Wagering License CT, LLC leads with the highest ratio at 9.71%, meaning nearly 10 cents of every dollar earned comes from promotions. This shows a strong dependence on bonuses and similar strategies to attract or keep players.
-- Mohegan Digital, LLC follows with 8.01%, also showing a fairly high reliance, though slightly more conservative than MPI.
-- MPTN On-Reservation sits at 7.42%, still relatively high, especially considering their smaller overall revenue. This might suggest they’re trying to stay competitive with bigger players through aggressive promotions.
-- Mohegan Tribe On-Reservation comes in lowest at 5.15%, suggesting a more modest and potentially sustainable promo strategy.
+The graph shows promotional deductions as a percentage of total gaming revenue, highlighting each licensee’s reliance on incentives.
+- MPI Master Wagering License CT, LLC leads at 9.71%, showing strong dependence on promotions.
+- Mohegan Digital, LLC follows at 8.01%, maintaining a high but slightly more conservative reliance.
+- MPTN On-Reservation, at 7.42%, likely uses aggressive promotions to compete despite smaller revenue.
+- Mohegan Tribe On-Reservation ranks lowest at 5.15%, suggesting a more modest, sustainable strategy.
 
 **Data Transformations Relevant to Question 1**
 
@@ -81,10 +76,10 @@ Purpose & Impact:
 
 **Implications:**
 
-Looking at these ratios helps licensees understand how much they are spending and how that spending is truly impacting their financial performance.
-A higher ratio may indicate more player engagement in the short term, but it also may lead to higher costs and thinner margins since the company supplies the promotional credits. 
-A lower ratio may indicate a more sustainable model, relying less on constant incentives. But, this may reduce the frequency of gameplay since users are not as incentivized to play.
-This means that the insights from our analysis can help licensees determine whether their current promotion strategy is worth the trade off, or if there is room to scale back while keeping revenue steady. 
+These ratios help licensees assess spending and its impact on financial performance.
+- A higher ratio may boost short-term engagement but increase costs and tighten margins due to promotional credits.
+- A lower ratio suggests a more sustainable model with fewer incentives but could reduce gameplay frequency.
+- Insights from this analysis help licensees decide whether to maintain or adjust their promotion strategy while sustaining revenue.
 
 **2. How do each licensee's total wagers compare to Patron Winnings across different years?**
 <p align="center">
@@ -115,13 +110,11 @@ Overall, the charts provide clear insights into how each licensee is evolving in
 <img src="https://github.com/user-attachments/assets/e58ff31c-d203-4e22-bd90-48782e02640a" width="650">
 </p>
 
-  This graph compares total wagers to patron winning across five time points for each licensee. The data helps reveal how much players are betting and how much they're winning, providing insight into overall player activity and return behavior. 
-- Mohegan Digital, LLC and MPI Master Wagering License CT, LLC follow almost identical trends, with steady increases in wages and winning through the middle years, then a drop in the most recent year. This suggests consistent operations and player engagement across time.
-- Mohegan Tribe On-Reservation has no data reported for 2021, but shows strong values through the following years- peaking in 2023. Despite the early gap, their performance aligns with industry trends in later years, indicating a comparable payout structure.
-- MPTN On-Reservation starts the lowest in 2021 burt rises to match the others by 2023. This may reflect a slower growth strategy or lower player engagement
-- All licensees show a notable drop in both wagers and winnings in the most recent data
-  - This may be due to the year still being in progress (partial year total)
-  - It could also reflect seasonal betting patterns, or a shift in promotional tactics impacting how much players are betting and winning 
+The graph compares total wagers to player winnings across five time points, highlighting overall betting activity and return behavior.
+- Mohegan Digital, LLC and MPI Master Wagering License CT, LLC show similar trends - steady growth through mid-years, then a decline in the latest data.
+- Mohegan Tribe On-Reservation lacks 2021 data but peaks in 2023, later aligning with industry payout trends.
+- MPTN On-Reservation starts lowest in 2021 but rises to match others by 2023, possibly indicating slower growth or lower engagement.
+- All licensees experience a recent drop in wagers and winnings, likely due to an incomplete year, seasonal patterns, or shifts in promotional strategies.
 
 **Data Transformations Relevant to Question 2**
 
@@ -140,9 +133,9 @@ Purpose & Impact:
 **Implications:**
 
 Understanding the relationship between how much players wager and how much they win back gives valuable insight into overall player engagement, game performance, and payout structure.
-When winnings closely match wagers, it shows a stable return environment, which can build player trust and encourage continued play. But it also means margins may be tighter, as more money is returned to players.
-If winnings dip below wagers significantly, licensees might see higher revenue, but risk creating a less appealing experience,  which could hurt long-term engagement if players feel returns are too low.
-The drop in both wagers and winnings in 2025 may reflect seasonality or changes in player behavior, making it a critical time for licensees to evaluate their current strategies and monitor if engagement rebounds later in the year.
+- When winnings closely match wagers, it shows a stable return environment, which can build player trust and encourage continued play. But it also means margins may be tighter, as more money is returned to players.
+- If winnings dip below wagers significantly, licensees might see higher revenue, but risk creating a less appealing experience,  which could hurt long-term engagement if players feel returns are too low.
+- The drop in both wagers and winnings in 2025 may reflect seasonality or changes in player behavior, making it a critical time for licensees to evaluate their current strategies and monitor if engagement rebounds later in the year.
 
 # Tableau Packaged Workbook:
 
