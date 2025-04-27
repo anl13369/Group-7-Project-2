@@ -132,10 +132,10 @@ Purpose & Impact:
 
 **Implications:**
 
-Understanding the relationship between how much players wager and how much they win back gives valuable insight into overall player engagement, game performance, and payout structure.
-- When winnings closely match wagers, it shows a stable return environment, which can build player trust and encourage continued play. But it also means margins may be tighter, as more money is returned to players.
-- If winnings dip below wagers significantly, licensees might see higher revenue, but risk creating a less appealing experience,  which could hurt long-term engagement if players feel returns are too low.
-- The drop in both wagers and winnings in 2025 may reflect seasonality or changes in player behavior, making it a critical time for licensees to evaluate their current strategies and monitor if engagement rebounds later in the year.
+Tracking the balance between wagers and winnings offers key insights into player engagement, game performance, and payout structure.
+- Stable returns foster player trust and encourage continued play but may tighten profit margins.
+- Lower winnings boost revenue but risk deterring players if returns feel too low.
+- The 2025 decline in wagers and winnings could signal seasonal trends or shifting behaviors, making it a crucial time for strategy adjustments.
 
 # Tableau Packaged Workbook:
 
